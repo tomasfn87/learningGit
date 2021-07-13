@@ -1,8 +1,8 @@
 1) git init
- * start new repository
+ * start new repository for the current folder (?)
 
 2) git add Readme.md 
- * add files to be staged
+ * add file(s) or folder(s) to be staged
 
 3) git status 
  * see staged files awaiting to be commited
