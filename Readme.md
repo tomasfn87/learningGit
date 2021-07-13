@@ -48,8 +48,10 @@ VII. To fetch files that are on the github repository but not on your local fold
  * sometimes you must pull files from github before pushing from local repository
  * --allow-unrelated-histories helps your merge local and git files
 
+IX. To create and switch to a new branch (and back) and to merge branches
+-------------------------------------------------------------------------
 11) git checkout -b "new-button"
- * leaves actual branch and goes to the newly created "new-button" branch
+ * leaves actual branch and creates a new branch named "new-button"
  > git checkout "main"
  * leaves actual branch and goes to the existing "main" branch
  > git checkout "new-button"
@@ -57,3 +59,6 @@ VII. To fetch files that are on the github repository but not on your local fold
  
 12) git branch (--list) 
  * shows a list of branches; the actual branch will be green and marked with an asterisk (*)
+
+13) (git branch) (git checkout "main") git merge new-button
+ * While in main (check with git branch and switch branches with gut checkout "branch_name"), merge new-button's and main's files, that can then be uploaded to the repository with git add . && git commit -m "message"
