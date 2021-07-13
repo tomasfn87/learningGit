@@ -19,7 +19,7 @@ III. Commit files to local repository
 IV. Setup GitHub repository
 ---------------------------
 5) git branch -M main
- * specify the branch to be pushed
+ * specify the branch to be pushed (?)
 
 6) git remote add origin git@github.com:userName/repositoryName.git
  - git remote add origin git@github.com:tomasfn87/learningGit.git
