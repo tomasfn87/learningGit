@@ -26,5 +26,5 @@
  - git push origin main
  - push/send files to repository; option -u is required only the first time
 
-11) git pull origin master --allow-unrelated-histories 
+10) git pull origin master --allow-unrelated-histories 
  - Sometimes you must pull files from origin before pushing from local repository
