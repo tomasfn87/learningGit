@@ -29,8 +29,8 @@ IV. Setup GitHub repository
  * show remote URL for fetch/push operations; can be altered by step 8
 
 V. Add authentication token
+---------------------------
 > github.com > Settings > Developer settings > Personal access tokens > Generate new token
-----------------------------------------------------------------------------------------------------------------------
 8) git remote set-url origin https://ghp_y1gKcGkUeIMRgGoxp0Ztk_your_token_tS1@github.com/tomasfn87/learningGit.git
  - git remote set-url origin https://(-------------your----token------------)@(----------https-clone-URL---------)
 
