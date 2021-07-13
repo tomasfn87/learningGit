@@ -43,5 +43,5 @@ VI. Push local files to github.com repository
 VII. To fetch files that are on the github repository but not on your local folder
 ----------------------------------------------------------------------------------
 10) git pull origin main --allow-unrelated-histories
- * Sometimes you must pull files from origin before pushing from local repository
+ * Sometimes you must pull files from github before pushing from local repository
  * --allow-unrelated-histories helps your merge local and git files
