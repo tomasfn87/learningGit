@@ -14,7 +14,7 @@
  - specify the branch
 
 6) git remote add origin git@github.com:userName/repositoryName.git
-                        git@github.com:tomasfna87/learningGit.git
+ - git remote add origin git@github.com:tomasfn87/learningGit.git
  - add repository
 
 7) git remote -v
