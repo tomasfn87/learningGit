@@ -34,6 +34,7 @@ Get your token:
 > github.com > Settings > Developer settings > Personal access tokens > Generate new token
 8) git remote set-url origin https://ghp_y1gKcGkUeIMRgGoxp0Ztk_your_token_tS1@github.com/tomasfn87/learningGit.git
  > git remote set-url origin https://(-------------your----token------------)@(----------https-clone-URL---------)
+ * change the remote repository URL for fetch and push operations
 
 VI. Push local files to github.com repository
 ---------------------------------------------
@@ -44,5 +45,5 @@ VI. Push local files to github.com repository
 VII. To fetch files that are on the github repository but not on your local folder
 ----------------------------------------------------------------------------------
 10) git pull origin main --allow-unrelated-histories
- * Sometimes you must pull files from github before pushing from local repository
+ * sometimes you must pull files from github before pushing from local repository
  * --allow-unrelated-histories helps your merge local and git files
