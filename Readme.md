@@ -19,6 +19,7 @@
 
 git remote -v
 git remote set-url origin https://ghp_y1gKcGkUeIMRgGoxp0Ztk_your_token_tS1@github.com/tomasfn87/learningGit.git
+                          https://(             your   token             )@( https clone url                  )
 
 7)git push -u origin main
 - push/send files to repository
