@@ -17,5 +17,8 @@
                         git@github.com:tomasfna87/learningGit.git
 - add repository
 
+git remote -v
+git remote set-url origin https://ghp_y1gKcGkUeIMRgGoxp0Ztk_your_token_tS1@github.com/tomasfn87/learningGit.git
+
 7)git push -u origin main
 - push/send files to repository
