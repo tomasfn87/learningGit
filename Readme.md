@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 1)git init
 - start new repository
 
