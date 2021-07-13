@@ -23,3 +23,5 @@ git remote set-url origin https://ghp_y1gKcGkUeIMRgGoxp0Ztk_your_token_tS1@githu
 
 7)git push -u origin main
 - push/send files to repository
+
+git pull origin master --allow-unrelated-histories
