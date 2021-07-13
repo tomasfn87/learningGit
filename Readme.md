@@ -28,7 +28,8 @@ IV. Setup GitHub repository
 7) git remote -v
  * show remote URL for fetch/push operations; can be altered by step 8
 
-V. Add authentication token > github.com > Settings > Developer settings > Personal access tokens > Generate new token
+V. Add authentication token
+> github.com > Settings > Developer settings > Personal access tokens > Generate new token
 ----------------------------------------------------------------------------------------------------------------------
 8) git remote set-url origin https://ghp_y1gKcGkUeIMRgGoxp0Ztk_your_token_tS1@github.com/tomasfn87/learningGit.git
  - git remote set-url origin https://(-------------your----token------------)@(----------https-clone-URL---------)
@@ -40,7 +41,7 @@ VI. Push local files to github.com repository
  * push/send files to repository; option -u is required only the first time
 
 VII. To fetch files that are on the github repository but not on your local folder
---------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 10) git pull origin master --allow-unrelated-histories
  * Sometimes you must pull files from origin before pushing from local repository
  * --allow-unrelated-histories helps your merge local and git files
