@@ -49,7 +49,11 @@ VII. To fetch files that are on the github repository but not on your local fold
  * --allow-unrelated-histories helps your merge local and git files
 
 11) git checkout -b "new-button"
- * leaves actual branch and goes to "new-button" branch
-
+ * leaves actual branch and goes to the newly created "new-button" branch
+ > git checkout "main"
+ * leaves actual branch and goes to the existing "main" branch
+ > git checkout "new-button"
+ * leaves actual branch and foes to the existing "new-button" branch
+ 
 12) git branch (--list) 
  * shows a list of branches; the actual branch will be green and marked with an asterisk (*)
