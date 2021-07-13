@@ -14,5 +14,8 @@
         - commit staged files with -m "message"
 
 5)
+    git remote add origin https://github.com/tomasfn87/learningGit.git
+
+6)
     git push -u origin main
 
