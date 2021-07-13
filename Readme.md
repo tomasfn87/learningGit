@@ -47,3 +47,9 @@ VII. To fetch files that are on the github repository but not on your local fold
 10) git pull origin main --allow-unrelated-histories
  * sometimes you must pull files from github before pushing from local repository
  * --allow-unrelated-histories helps your merge local and git files
+
+11) git checkout -b "new-button"
+ * leaves actual branch and goes to "new-button" branch
+
+12) git branch (--list) 
+ * shows a list of branches; the actual branch will be green and marked with an asterisk (*)
