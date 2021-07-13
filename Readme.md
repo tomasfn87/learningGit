@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1)git init
 - start new repository
 
@@ -23,3 +24,23 @@ git remote set-url origin https://ghp_y1gKcGkUeIMRgGoxp0Ztk_your_token_tS1@githu
 
 7)git push -u origin main
 - push/send files to repository
+=======
+1) 
+    git init
+        - start new repository
+2)
+    git add Readme.md 
+        - add files to be staged
+
+3)
+    git status 
+        - see staged files awaiting to be commited
+
+4)
+    git commit -m "first commit" 
+        - commit staged files with -m "message"
+
+5)
+    git push -u origin main
+
+>>>>>>> ab4fe24be40c2f06f3f634094cb3df2357b85298
