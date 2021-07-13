@@ -1,21 +1,21 @@
-1) 
-    git init
-        - start new repository
-2)
-    git add Readme.md 
-        - add files to be staged
+1)git init
+- start new repository
 
-3)
-    git status 
-        - see staged files awaiting to be commited
+2)git add Readme.md 
+- add files to be staged
 
-4)
-    git commit -m "first commit" 
-        - commit staged files with -m "message"
+3)git status 
+- see staged files awaiting to be commited
 
-5)
-    git remote add origin https://github.com/tomasfn87/learningGit.git
+4)git commit -m "first commit" 
+- commit staged files with -m "message"
 
-6)
-    git push -u origin main
+5)git branch -M main
+- specify the branch
 
+6)git remote add origin git@github.com:userName/repositoryName.git
+                        git@github.com:tomasfna87/learningGit.git
+- add repository
+
+7)git push -u origin main
+- push/send files to repository
