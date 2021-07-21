@@ -41,6 +41,7 @@ VI. Push local files to github.com repository
 9) git push -u origin main
  > git push origin main
  * push/send files to repository; option -u is required only the first time
+ * will prompt for username and password (password is view-safe on WSL 2, at least)
 
 VII. To fetch files that are on the github repository but not on your local folder
 ----------------------------------------------------------------------------------

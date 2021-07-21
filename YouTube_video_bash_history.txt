@@ -1,0 +1,66 @@
+ 1955  git init
+ 1956  la
+ 1957  ls -la
+ 1958  ls -a
+ 1959  la
+ 1960  ls
+ 1961  sudo apt install git
+ 1962  ls -a
+ 1963  git init
+ 1964  la
+ 1965  ls
+ 1966  git add .
+ 1967  git status
+ 1968  git rm 'Ceramics Monthly/Azul cobalto-pt-br.odt' Ceramics\ Monthly/Azul\ cobalto.odt
+ 1969  cd Ceramics\ Monthly/
+ 1970  ls
+ 1971  git rm 'Azul*.odt"
+ 1972  git rm Azul*.odt
+ 1973  git rm -f 'Azul*.odt'
+ 1974  git status
+ 1975  clear
+ 1976  git commit -m "primeiro commit"
+ 1977  git add Azul\ cobalto-pt-br.pdf
+ 1978  git status
+ 1979  cd ..
+ 1980  ls
+ 1981  la
+ 1982  git remote -v
+ 1983  git remote add origin git remote add origin git@github.com:tomasfn87/ceramica.git
+ 1984  git remote set-url origin https://(-------------your----token------------)@(----------https-clone-URL---------)
+ 1985  git remote add origin https://github.com/tomasfn87/ceramica.git
+ 1986  git remote -v
+ 1987  git branch --list
+ 1988  git branch
+ 1989  git branch --help
+ 1990  git branc -m master main
+ 1991  git branch -m master main
+ 1992  git branch
+ 1993  history | less
+ 1994  pushd ~/git/learnGit/
+ 1995  ls
+ 1996  daemon gedit Readme.md
+ 1997  ls
+ 1998  code Readme.md
+ 1999  git remote -v
+ 2000  exit
+ 2001  co Readme.md
+ 2002  ls
+ 2003  git add .
+ 2004  git status
+ 2005  git commit -m "another <url> => URL fix; added other info"
+ 2006  git push origin main
+ 2007  git remote set-url https://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@github.com/tomasfn87/learningGit.git
+ 2008  git remote set-url origin https://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@github.com/tomasfn87/learningGit.git
+ 2009  git remove -v
+ 2010  git remote -v
+ 2011  cd ..
+ 2012  ls
+ 2013  cd ..
+ 2014  ls
+ 2015  cd python
+ 2016  ls
+ 2017  la
+ 2018  git remote set-url origin https://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@github.com/tomasfn87/py.git
+ 2019  git remote -v
+ 2020  history
