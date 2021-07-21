@@ -63,6 +63,6 @@ IX. To create and switch to a new branch (and back) and to merge branches
 13) (git branch) (git checkout "main") git merge new-button
  * While in main (check with git branch and switch branches with gut checkout "branch_name"), merge new-button's and main's files, that can then be uploaded to the repository with git add . && git commit -m "message"
 
-14) git clone <url>
+14) git clone URL
   > git clone https://github.com/tomasfn87/learningGit.git
  * Downloads the specified repository <url> to be download to your local directory
