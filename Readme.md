@@ -65,4 +65,4 @@ IX. To create and switch to a new branch (and back) and to merge branches
 
 14) git clone URL
   > git clone https://github.com/tomasfn87/learningGit.git
- * Downloads the specified repository <url> to be download to your local directory
+ * Downloads the specified repository URL to be downloaded to your local directory to a folder named 'repository-name'
