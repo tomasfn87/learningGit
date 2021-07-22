@@ -68,9 +68,14 @@ IX. To create and switch to a new branch (and back) and to merge branches
   > git clone https://github.com/tomasfn87/learningGit.git
  * Downloads the specified repository URL to your local directory to a folder named 'repository-name': 'learninGit'
 
- 15) git rm --cached file...
+ 15) > git restore file... 
+   * Revert a file to an earlier version stored locally
+ 
    > git restore --staged file...
-   * To unstage
+   > git rm --cached file...
+   * To unstage files that are awaiting to be commited (git add)
+   
    > git rm -f file...
-   * To force removal
+   * To force removal of files that were staged and are awaiting to be commited
+   
    
