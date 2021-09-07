@@ -43,7 +43,7 @@ VI. Push local files to github.com repository
  * push/send files to repository; option -u is required only the first time
  * will prompt for username and password (password is view-safe on WSL 2, at least)
 
-VII. To fetch files that are on the github repository but not on your local folder
+VII. To fetch files that exist only in the github repository to your local folder
 ----------------------------------------------------------------------------------
 10) git pull origin main --allow-unrelated-histories
  * sometimes you must pull files from github before pushing from local repository
